@@ -4,8 +4,8 @@
 #include<stdio.h>
 #include<string.h>
 int main(){
-    char A[1000];
-    int i,c=0;
+    char A[10000];    //A+Angela's input
+    int i,c=0;    //c=checker value
     scanf("%[^\t]",&A);
 
     for(i=0;i<strlen(A);i++){
