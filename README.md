@@ -1,5 +1,5 @@
 # Angela_Anticaps_Problem.c
-//This is My First Github Program1
+//This is My First Github Program
 
 #include<stdio.h>
 #include<string.h>
